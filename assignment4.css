@@ -27,6 +27,16 @@
   width: 100%;
 }
 
+#slideDownContent {
+  margin-top: 2%;
+  border: 1px solid black;
+  text-indent: 2%;
+}
+
+#slideDownContent:hover {
+  background-color: lightblue;
+}
+
 .flexsearch {
   padding: 10px;
 }
